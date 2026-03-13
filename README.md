@@ -4,7 +4,7 @@ Get vial-qmk files
 
 Add the necessary files from [Carlos Eduardo](https://github.com/carlosedp/)
 
-Overwrite with the files of this repositry
+Overwrite with the files of this repository
 
 Compile vial keymap
 
